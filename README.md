@@ -2,19 +2,17 @@
 
 I'm a **software engineer and foundation doctor based in the UK**, transitioning fully into software engineering.
 
-I enjoy building reliable backend systems, full-stack applications, and intelligent tools that solve real-world problems. My medical background has shaped how I approach engineering: I think carefully about failure, communicate clearly, and value dependable systems.
-
 ## About Me
 
-- 🩺 Foundation doctor with an MBBS
+- 🩺 Foundation doctor in the UK
 - 💻 Focused on backend, full-stack, and distributed systems
 - ☁️ AWS Certified Cloud Practitioner
 - 🌍 Based in the United Kingdom
 - 🚀 Open to software engineering opportunities
 
-My interest in technology began when I needed to convert a large batch of Word documents into PDFs. I found a macro online and watched something that would have taken hours happen in seconds. That moment showed me how powerful code could be.
+I developed an interest in technology from an unexpected challenge – I had to find out how to convert thousands of Word files to PDFs. After finding a macro and watching how what took ages happened in seconds, I realized how much power lies in code.
 
-I went on to building my own projects using Python, Java, JavaScript, TypeScript, Go, and OCaml.
+Since then, I kept learning on my own and started working on projects in Python, Java and JavaScript. I am making this change because I have found out that I am most happy when I build, create and solve problems. I enjoy the process of understanding the way things work and creating useful solutions.
 
 ## Technical Skills
 
@@ -91,6 +89,6 @@ A full-stack book-sharing platform with authenticated accounts, searchable listi
 
 - [LinkedIn](https://www.linkedin.com/in/shraddha-ranjan-362502373/)
 - [GitHub](https://github.com/shraddharanjan)
-- Portfolio: https://shraddha-portfolio-nine.vercel.app/
+- [Portfolio](https://shraddha-portfolio-nine.vercel.app/)
 
 ---
