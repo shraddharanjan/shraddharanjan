@@ -2,13 +2,15 @@
 
 I'm a software engineer and doctor based in the UK. I am interested in technology and how we can build useful things to make a difference! 
 
-[Portfolio](https://shraddha-portfolio-nine.vercel.app/)
+[![Explore my portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://shraddha-portfolio-nine.vercel.app/)
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shraddha-ranjan-362502373/)
+
+[Portfolio]
 
 ## About Me
 
-- 🩺 Foundation doctor in the UK
+- 🩺 Foundation doctor
 - 💻 Focused on backend, full-stack, and distributed systems
-- ☁️ AWS Certified Cloud Practitioner
 - 🌍 Based in the United Kingdom
 - 🚀 Open to software engineering opportunities
 
@@ -44,9 +46,3 @@ PyTorch · Scikit-learn · Pandas · MCP · Brave API · Polygon API · Streamli
 - Functional programming
 - Performance and observability
 - Building thoughtful software for real-world problems
-
-## Connect With Me
-- [Portfolio](https://shraddha-portfolio-nine.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/shraddha-ranjan-362502373/)
-
----
