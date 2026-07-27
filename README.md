@@ -1,6 +1,8 @@
 # Hi, I'm Shraddha 👋
 
-I'm a **software engineer and foundation doctor based in the UK**, transitioning fully into software engineering.
+I'm a software engineer and doctor based in the UK. I am interested in technology and how we can build useful things to make a difference! 
+
+[Portfolio](https://shraddha-portfolio-nine.vercel.app/)
 
 ## About Me
 
@@ -34,48 +36,6 @@ AWS · Docker · Git · GitHub · Linux · OpenTelemetry · Grafana · Playwrigh
 **Data, AI & Automation**  
 PyTorch · Scikit-learn · Pandas · MCP · Brave API · Polygon API · Streamlit
 
-## Featured Projects
-
-### Clinical Results Escalation Engine
-A fault-tolerant backend workflow system for synthetic clinical results, designed around safety-critical healthcare processes.
-
-**Built with:** Go, PostgreSQL, OpenTelemetry, Docker, Grafana
-
-- Transactional multi-worker task claiming
-- Renewable leases and crash recovery
-- Severity-aware scheduling
-- Acknowledgement deadlines and escalation policies
-- Idempotent notification retries
-- Append-only audit events
-- Concurrent-load latency measurements
-
-### OCaml Matching Engine
-A limit-order-book engine implementing price-time priority, partial fills, cancellation, testing, and benchmarking.
-
-**Built with:** OCaml, Core, Dune, Alcotest, QCheck, Benchmark
-
-- FIFO execution within each price level
-- Full and partial fills
-- Cancellation by order ID
-- Property-based invariant testing
-- Performance benchmarks
-
-### Aurelia
-A responsive full-stack vehicle marketplace with authentication, search, filtering, and reusable data-driven components.
-
-**Built with:** Next.js, TypeScript, React, Tailwind CSS, Prisma, PostgreSQL, Clerk
-
-### RanjanTasker
-A secure multi-user task marketplace supporting listings, accounts, and persistent application workflows.
-
-**Built with:** Java, Spring Boot, Spring Security, JPA, Hibernate, MySQL, Thymeleaf
-
-### RanjanBooks
-A full-stack book-sharing platform with authenticated accounts, searchable listings, and borrowing workflows.
-
-**Built with:** Next.js, TypeScript, React, Prisma, MongoDB, NextAuth, Tailwind CSS
-
-
 ## Current Focus
 
 - Backend engineering
@@ -86,9 +46,7 @@ A full-stack book-sharing platform with authenticated accounts, searchable listi
 - Building thoughtful software for real-world problems
 
 ## Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/shraddha-ranjan-362502373/)
-- [GitHub](https://github.com/shraddharanjan)
 - [Portfolio](https://shraddha-portfolio-nine.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/shraddha-ranjan-362502373/)
 
 ---
