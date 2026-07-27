@@ -2,8 +2,8 @@
 
 I'm a software engineer and doctor based in the UK. I am interested in technology and how we can build useful things to make a difference! 
 
-[![Explore my portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://shraddha-portfolio-nine.vercel.app/)
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shraddha-ranjan-362502373/)
+🌐 **[Explore my portfolio](https://shraddha-portfolio-nine.vercel.app/)**  
+💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/shraddha-ranjan-362502373/)**  
 
 ## About Me
 
