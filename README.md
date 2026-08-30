@@ -33,9 +33,6 @@ PostgreSQL · MySQL · MongoDB · Prisma · JPA · Hibernate
 **Cloud, Testing & Tools**  
 AWS · Docker · Git · GitHub · Linux · OpenTelemetry · Grafana · Playwright · Dune · Alcotest · QCheck
 
-**Data, AI & Automation**  
-PyTorch · Scikit-learn · Pandas · MCP · Brave API · Polygon API · Streamlit
-
 ## Current Focus
 
 - Backend engineering
