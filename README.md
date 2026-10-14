@@ -1,6 +1,6 @@
 # Hi, I'm Shraddha 👋
 
-I'm a software engineer and doctor based in the UK. I am interested in technology and how we can build useful things to make a difference! 
+I'm a FDE and doctor based in the UK. I am interested in technology and how we can build useful things to make a difference! 
 
 🌐 **[Explore my portfolio](https://shraddha-portfolio-nine.vercel.app/)**  
 💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/shraddha-ranjan-362502373/)**  
